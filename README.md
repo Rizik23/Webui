@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
@@ -237,3 +238,7 @@ If you have any questions, suggestions, or need assistance, please open an issue
 ---
 
 Created by [Timothy Jaeryang Baek](https://github.com/tjbck) - Let's make Open WebUI even more amazing together! 💪
+=======
+# Webui
+User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+>>>>>>> c9108478e8dfa6e2e24e5043789f7a600d62175f
